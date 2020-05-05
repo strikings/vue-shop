@@ -1,0 +1,3 @@
+先运行 npm install 安装依赖包
+
+然后运行：node app.js
